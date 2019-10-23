@@ -321,7 +321,7 @@ Find 16 S rRNA genes within Bin, which is not annotated yet or Assembly-> RNAmme
 
 `cd /PATH/TO/OUTPUT/FOLDER/RNAmmer`
 
-`rnammer -S arc -m ssu -xml READ_all_arc.xml -gff READ_all_arc.gff  -h READ_all_arc.hmmreport -f READ_all_arc.fasta  < /PATH/TO/BIN/BinX.fasta``` 
+`rnammer -S arc -m ssu -xml READ_all_arc.xml -gff READ_all_arc.gff  -h READ_all_arc.hmmreport -f READ_all_arc.fasta  < /PATH/TO/BIN/BinX.fasta`
 
 `rnammer -S bac -m ssu -xml READ_all_bac.xml -gff READ_all_bac.gff  -h READ_all_bac.hmmreport -f READ_all_bac.fasta  < /PATH/TO/BIN/BinX.fasta`
 
